@@ -3,6 +3,4 @@
 
 Integrantes:
 
-Fernando Haylock Aguilar
-David Lozano Madrid
-Fabián Nisperuza Lafont
+Fernando Haylock Aguilar-David Lozano Madrid-Fabián Nisperuza Lafont
